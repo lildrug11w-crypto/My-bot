@@ -2,8 +2,8 @@ import telebot
 import time
 from telebot import types
 
-TOKEN = "8308935041:AAHxkcuaOA4mwj1XXR2AZDJX-RGSdLAHk2w"
-ADMIN = 7738822030  # сюда свой ID
+TOKEN = "8308935041:AAGea3YnCFCIF1k3i1P2WnE8dPRN8VqXy4w"
+ADMIN = 7738822030 
 CHANNEL = "@pizzabotinfo"
 
 bot = telebot.TeleBot(TOKEN)
